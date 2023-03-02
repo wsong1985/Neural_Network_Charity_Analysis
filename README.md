@@ -12,7 +12,7 @@ Using the knowledge of machine learning and neural networks to help Beks create 
    
       * The values of IS_SUCCESSFUL are considered as the targets for my model.
       
-        <img src="Images/target.PNG" width=500>
+        <img src="Images/target.PNG" width=100>
   
    * What variable(s) are considered to be the features for your model?
    
@@ -24,7 +24,7 @@ Using the knowledge of machine learning and neural networks to help Beks create 
    
       * The values of EIN and NAME are neither targets nor features and should be removed from the input data.
       
-        <img src="Images/ein_name.PNG" width=500>   
+        <img src="Images/ein_name.PNG" width=100>   
    
 - **Compiling, Training, and Evaluating the Model**
   
